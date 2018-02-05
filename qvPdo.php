@@ -1,15 +1,15 @@
 <?php
 /**
-  * PDOx - Useful Query Builder & PDO Class
+  * qvPDO - Useful Query Builder & qvPDO Class
   *
-  * @class    Pdox
-  * @author   izni burak demirtaş (@izniburak) <info@burakdemirtas.org>
-  * @web      <http://burakdemirtas.org>
-  * @url      <https://github.com/izniburak/PDOx>
+  * @class    Cache
+  * @author   qv20351 (@website123) <info@website123.tk>
+  * @web      <http://website123.tk>
+  * @url      <https://qv20351/qv_frame_v1>
   * @license  The MIT License (MIT) - <http://opensource.org/licenses/MIT>
   */
 
-namespace Buki;
+namespace Qv;
 
 use Cache;
 use PDO;
